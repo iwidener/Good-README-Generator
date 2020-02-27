@@ -5,7 +5,7 @@ function generateMarkdown(inquirerResponse, githubResponse) {
 # **Your Project Title:** ${inquirerResponse.title}
 <p>&nbsp;</p>
 
-## **Description**<hr />
+## **Description**
 ### ${inquirerResponse.description}
 <p>&nbsp;</p>
 
@@ -16,23 +16,23 @@ function generateMarkdown(inquirerResponse, githubResponse) {
   * [License](#License)
 <p>&nbsp;</p>
 
-## **Installation**<hr />
+## **Installation**
 ### ${inquirerResponse.installation}
 <p>&nbsp;</p>
 
-## **Usage**<hr />
+## **Usage**
 ### ${inquirerResponse.usage}
 <p>&nbsp;</p>
 
-## **License**<hr />
+## **License**
 ### ${inquirerResponse.license}
 <p>&nbsp;</p>
 
-## **Contributing**<hr />
+## **Contributing**
 ### ${inquirerResponse.contributing}
 <p>&nbsp;</p>
 
-## **Tests**<hr />
+## **Tests**
 ### ${inquirerResponse.tests}
 <p>&nbsp;</p>
 
@@ -41,7 +41,7 @@ function generateMarkdown(inquirerResponse, githubResponse) {
 
     ![GitHub profile picture](${githubResponse.avatar_url})
  
-## **Badges**<hr />
+## **Badges**
 ### ${inquirerResponse.badge}
 <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 <p>&nbsp;</p>
