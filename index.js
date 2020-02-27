@@ -74,7 +74,7 @@ async function init() {
 
         const markdown = generateMarkdown(inquirerResponse, githubResponse.data);
         await writeFileAsync('MARKDOWN.md', markdown);
-        console.log("Successfully wrote to README.md");
+        console.log("Successfully wrote to MARKDOWN.md");
     } catch (err) {
         console.log(err);
     }

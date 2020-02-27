@@ -8,7 +8,7 @@
 ### 
 <p>&nbsp;</p>
 
-## **Table of Contents**<hr />
+## **Table of Contents**
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Tests](#Tests)

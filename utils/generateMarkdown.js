@@ -2,7 +2,7 @@ function generateMarkdown(inquirerResponse, githubResponse) {
   return `
 ### ${githubResponse.login}
 
-# **Your Project Title:** ${inquirerResponse.title}
+# **Project Title:** ${inquirerResponse.title}
 <p>&nbsp;</p>
 
 ## **Description**
