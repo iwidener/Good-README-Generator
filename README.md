@@ -17,7 +17,7 @@
 
 * Then the questions will be given according to the Good README guide. <br>
 
-* When a user answers all questions, the following message will complete the application: "Successfully wrote to MARKDOWN file". <br>
+* When a user answers all questions, the following message will complete the application: "Successfully wrote to MARKDOWN file".
 
 
 
