@@ -1,7 +1,7 @@
 
 ### iwidener
 
-# **Project Title:** GOOD README GENERATOR
+# **Project Title:** Good Readme Generator
 <p>&nbsp;</p>
 
 ## **Description**
